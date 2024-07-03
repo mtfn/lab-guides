@@ -1,7 +1,7 @@
 # SLAM Toolbox setup
 This assumes that your local machine has all relevant Turtlebot packages installed. Unless otherwise specified, run all commands on your local machine (lab laptop, etc.)
 
-1) Download [customslam.launch.py](https://gist.github.com/mtfn/3aa95ced4c1409736fd4358f32b69ab3) and edit the first line of code to reflect your robot’s namespace
+1) Download [customslam.launch.py](./customslam.launch.py) and edit the first line of code to reflect your robot’s namespace
 
        bot_namespace = ‘/your_namespace’
 

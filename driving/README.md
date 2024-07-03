@@ -24,4 +24,5 @@ After SSHing into the Turtlebot with `ssh ubuntu@192.168.185.robot_number`,
        source ~/drive_ws/install/setup.bash
        ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap /cmd_vel:=$(echo $ROBOT_NAMESPACE)/cmd_vel
 
-You can save these two commands to a file called `setup.bash` and run that whenever you want to drive.
+You can save these two commands to a file called `setup.bash` and run that whenever you want to drive. You can find one [here](./drive.bash).
+
