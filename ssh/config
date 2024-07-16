@@ -1,0 +1,18 @@
+Host cable
+		HostName 192.168.185.3
+		User ubuntu
+Host catalina
+		HostName 192.168.185.117
+		User ubuntu
+Host cabrillo
+		HostName 192.168.185.114
+		User ubuntu
+Host yosemite
+		HostName 192.168.185.100
+		User ubuntu
+Host arches
+		HostName 192.168.185.111
+		User ubuntu
+Host lassen
+		HostName 192.168.185.140
+		User ubuntu
